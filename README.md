@@ -13,5 +13,4 @@ The tech stack is:
 <li>BEM methodology</li>   
 </ul>
 Author
-
     <h2>Stepan Tulaidan</h2>
